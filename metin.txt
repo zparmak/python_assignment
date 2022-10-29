@@ -1,1 +1,3 @@
 repom için oluşturduğum ilk metin dosyası budur.
+
+2. yenilik
